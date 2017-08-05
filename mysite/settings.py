@@ -25,7 +25,7 @@ SECRET_KEY = '0i(m61jxm&rsk%xu-aqqgj8s%9k5ad*q$ct(u0+d@w!hyat!8y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'valdegoede.pythonanywhere.com']
 
 
 # Application definition
